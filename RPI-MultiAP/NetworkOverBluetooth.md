@@ -10,7 +10,7 @@ Network Manager is the service that is responsible for managing all the availabl
 
 With Network Manager, as soon as you connect to the RaspberryPI that is listing the NAP service, you should be able to see the "Raspberry PI Network" automatically in the list of interfaces, under the "Mobile Broadband":
 
-<img src="https://raw.githubusercontent.com/fabriziobertocci/bluetooth-howto/master/RPI-MultiAP/nm.png" />
+<img src="https://raw.githubusercontent.com/fabriziobertocci/bluetooth-howto/master/RPI-MultiAP/nm.png" alt="networkmanager" style="zoom:50%;" />
 
 
 
